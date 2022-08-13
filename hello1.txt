@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 hello ccr ! hello git !22222
-hello ccr ! hello git !66666
 hello ccr ! hello git !
+=======
+hello ccr ! hello git ! 66666
+>>>>>>> hot-fix
 hello ccr ! hello git !
 hello ccr ! hello git !
 hello ccr ! hello git !
@@ -8,3 +11,5 @@ hello ccr ! hello git !
 hello ccr ! hello git !
 hello ccr ! hello git ! master test
 hello ccr ! hello git !
+hello ccr ! hello git ! 
+hello ccr ! hello git ! hot-fix test
