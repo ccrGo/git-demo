@@ -17,3 +17,5 @@ hello ccr ! hello git ! hot-fix test
 8888888888888888888888888888888 by lhc
 9999999999999 by dongfang
 大帅哥
+
+vscode
